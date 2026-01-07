@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xaidie Campbell| WDD 130</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <h1>Xaidie Campbell| WDD 130</h1>
+            <img src=./images/profile.png alt="Xaidie Campbell" width="200" <a href="wwr/">rafting
+            website</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Welcome to my homepage. I'm a student studying Web and App Development. I am also an
+                English teacher. I have been teaching English to adult Immigrants to the US for the
+                last 17 years. I intend to use my new coding skills to assist me in expanding my
+                reach by building English learning websites and troubleshooting Learning Management
+                Systems</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: your.email@example.com</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 😃Xaidie Campbell😃 Massachusetts, USA
+        </p>
+    </footer>
+</body>
+
+</html>
