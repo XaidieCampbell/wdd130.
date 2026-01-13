@@ -24,3 +24,17 @@ img {
 p {
     padding: 10px;
 }
+
+main {
+    max-width: 800px;
+}
+
+aside {
+    max-width: .5rem;
+    float: right;
+    margin;
+    10px;
+    border: 1px solid black;
+    padding 10px #333;
+    backgound-color: #111
+}
